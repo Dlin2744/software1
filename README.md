@@ -1,3 +1,6 @@
+00557133_林延昱
+[![Build Status](https://travis-ci.com/Dlin2744/software1.svg?branch=master)](https://travis-ci.com/Dlin2744/software1)
+
 # GitProjectTutorialExample
 Just an example for my Tutorial.
 
